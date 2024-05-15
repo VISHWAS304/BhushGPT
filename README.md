@@ -25,6 +25,7 @@ python -m ipykernel install --user --name=cuda --display-name "bhush-gpt"
 Launching jupyter notebook
 ```bash
 jupyter notebook
+```
 
 
 
