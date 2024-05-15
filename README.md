@@ -13,12 +13,12 @@ cuda\Scripts\activate
 ```bash
 pip3 install matplotlib numpy pylzma ipykernel jupyter
 ```
-3.Installed pytorch with cuda 
-https://pytorch.org/get-started/locally/  (used this website of pytorch to configure and download according to my system requirements)
+3. Installed pytorch with cuda
+   https://pytorch.org/get-started/locally/  (used this website of pytorch to configure and download according to my system requirements)
 ```bash
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
 ```
-4.Configuring jupyter notebook and its kernel to the cuda kernal created 
+4. Configuring jupyter notebook and its kernel to the cuda kernal created 
 ```bash
 python -m ipykernel install --user --name=cuda --display-name "bhush-gpt" 
 ```
