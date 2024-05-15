@@ -1,6 +1,113 @@
 # BhushGPT
 I built my own large language model, from scratch. Helps us to understand the building , Working and implementation of the Large launguage model.
 
+-----**DAY 01** 5/15/2024-------
+1. Created virtual environment named cuda and activated it 
+   ```bash
+   python -m venv cuda
+   ```
+   ```bash
+   cuda\Scripts\activate
+   ```
+2. Installed certain libraries inside the environment
+   ```bash
+   pip3 install matplotlib numpy pylzma ipykernel jupyter
+   ```
+3.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # GPT-4 Technical and Mathematical Details (NLP)
 
 | **Aspect**                 | **Details**                                                                                   |
