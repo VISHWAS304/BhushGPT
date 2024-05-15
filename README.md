@@ -6,22 +6,18 @@ I built my own large language model, from scratch. Helps us to understand the bu
 ```bash
 python -m venv cuda
 ```
-
 ```bash
 cuda\Scripts\activate
 ```
-
 2. Installed certain libraries inside the environment
 ```bash
 pip3 install matplotlib numpy pylzma ipykernel jupyter
 ```
-
 3.Installed pytorch with cuda 
 https://pytorch.org/get-started/locally/  (used this website of pytorch to configure and download according to my system requirements)
 ```bash
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
 ```
-
 4.Configuring jupyter notebook and its kernel to the cuda kernal created 
 ```bash
 python -m ipykernel install --user --name=cuda --display-name "bhush-gpt" 
